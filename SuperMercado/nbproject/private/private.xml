@@ -3,14 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Hermelindo/Desktop/SuperMercado/src/Conexao/VendaDados.java</file>
-            <file>file:/C:/Users/Hermelindo/Desktop/SuperMercado/src/Conexao/Utilizar.java</file>
-            <file>file:/C:/Users/Hermelindo/Desktop/SuperMercado/src/Conexao/DetalheDados.java</file>
-            <file>file:/C:/Users/Hermelindo/Desktop/SuperMercado/src/Modelo/Produto.java</file>
-            <file>file:/C:/Users/Hermelindo/Desktop/SuperMercado/src/Modelo/Venda.java</file>
-            <file>file:/C:/Users/Hermelindo/Desktop/SuperMercado/src/Visao/JVenda.java</file>
-            <file>file:/C:/Users/Hermelindo/Desktop/SuperMercado/src/Conexao/ProdutoDados.java</file>
-            <file>file:/C:/Users/Hermelindo/Desktop/SuperMercado/src/Conexao/Bdados.java</file>
+            <file>file:/C:/Users/Hermelindo/Documents/MeusProjectos/Gerenciamento-Minimercado/SuperMercado/src/Modelo/DetalheVenda.java</file>
+            <file>file:/C:/Users/Hermelindo/Documents/MeusProjectos/Gerenciamento-Minimercado/SuperMercado/src/Conexao/VendaDados.java</file>
+            <file>file:/C:/Users/Hermelindo/Documents/MeusProjectos/Gerenciamento-Minimercado/SuperMercado/src/Visao/JPrincipal.java</file>
+            <file>file:/C:/Users/Hermelindo/Documents/MeusProjectos/Gerenciamento-Minimercado/SuperMercado/src/Conexao/Bdados.java</file>
         </group>
     </open-files>
 </project-private>
